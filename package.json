@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "dom-serializer": "0.1.1",
+    "dom-serializer": "0.2.2",
     "dotenv": "^8.2.0",
     "dotenv-expand": "^5.1.0",
     "fetch-cookie": "^0.7.3",
